@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
+  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Tetris 128 (Ubuntu Snap Edition)">
   <br />
-  [Project]
+  Tetris 128 (Ubuntu Snap Edition)
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>“Single-line elevator pitch for your amazing snap”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for Tetris 128 (Ubuntu Snap Edition)</b>, <i>The snapcraft version of Tetris 128, the ultimate open-source Tetris game.</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -42,11 +42,11 @@ distributions.</p>
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Project] can authoritatively publish future releases.
+upstream so the Tetris 128 project can authoritatively publish future releases for the snap platform.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
-  - [ ] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
-  - [ ] Update the description of the repository
+  - [x] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
+  - [x] Update the description of the repository
   - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
   - [ ] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
